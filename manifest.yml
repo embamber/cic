@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 768M
+  instances: 1
+  domain: mybluemix.net
+  name: test_cic_community_content
+  host: test_cic_community_content
+  disk_quota: 1024M
